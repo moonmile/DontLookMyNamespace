@@ -1,7 +1,6 @@
-DontLookMyNamespace
-===================
 
-# お父さんと同じ名前空間に居たくない! コード
+お父さんと同じ名前空間に居たくない! DontLookMyNamespace
+===================
 
 プログラマが思春期の娘に言われると傷つく一言 - Togetterまとめ
 http://togetter.com/li/294232
